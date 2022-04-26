@@ -1,0 +1,65 @@
+#demo {
+    background-color: aqua;
+    border-radius: 5px;
+}
+
+.active {
+    background: chartreuse;
+}
+
+body {
+    background-image: url(back.jpg);
+    background-size: cover;
+    background-position: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#yy {
+    width: 177px;
+    background-color: aqua;
+    border-radius: 5px;
+}
+
+
+}
+nav {
+    width: 100%;
+    height: 115px;
+    background-color: aquamarine;
+}
+nav ul ol {
+    display: inline-block;
+    line-height: 80px;
+    margin: 0 5px;
+}
+nav ul ol a {
+    color: rgb(226, 40, 195);
+    font-size: large;
+    padding: 7px 13px;
+    border-radius: 3px;
+    text-transform: uppercase;
+    bottom: unset;
+    display: inline-block;
+}
+label.logo {
+    padding-left: 10px;
+}
+button {
+    background-color: greenyellow;
+    border-radius: 5px;
+    text-decoration-color: blue;
+}
+textarea {
+    background-color: transparent;
+    border-radius: 5px;
+}
+footer {
+    background-color: green;
+    scroll-padding-bottom: 2px;
+    height: 104px;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 60px;
+    /* Height of the footer */
+}
